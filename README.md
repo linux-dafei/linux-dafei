@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @linux-dafei
+- 👀 I’m interested in linux_kernel
+- 🌱 I’m currently learning v2x
